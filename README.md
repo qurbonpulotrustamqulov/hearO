@@ -151,4 +151,11 @@ Agar siz loyiha g‘oyasini yoqtirsangiz — **⭐ yulduzcha bosing** yoki **PR 
 > [hearo.uz](https://hearo.uz)
 
 ---
+## Technical specification
+**Uz**
+![App Preview](tz/uz.pdf)
+
+**En**
+![App Preview](tz/en.pdf)
+---
 
