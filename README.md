@@ -151,11 +151,9 @@ Agar siz loyiha g‘oyasini yoqtirsangiz — **⭐ yulduzcha bosing** yoki **PR 
 > [hearo.uz](https://hearo.uz)
 
 ---
-## Technical specification
-**Uz**
-![App Preview](tz/uz.pdf)
+## 📄 Technical Specification
 
-**En**
-![App Preview](tz/en.pdf)
----
-
+| Til / Language | PDF Hujjat |
+|----------------|-------------|
+| 🇺🇿 **O‘zbekcha** | [📘 Ko‘rish → `tz/uz.pdf`](tz/uz.pdf) |
+| 🇬🇧 **English** | [📗 View → `tz/en.pdf`](tz/en.pdf) |
